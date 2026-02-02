@@ -1,0 +1,16 @@
+{
+  "Index": 150,
+  "Code": "Edible (tree)",
+  "Name": "Waypoint Mushrooms Edible (tree)",
+  "Commands": [
+    "/waypoint addati mushroom ~0 ~0 ~0 false #C4A776 Edible (tree)"
+  ],
+  "KeyCombination": {
+    "KeyCode": 69,
+    "SecondKeyCode": 72,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

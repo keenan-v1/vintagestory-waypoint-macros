@@ -1,0 +1,16 @@
+{
+  "Index": 146,
+  "Code": "Peanut",
+  "Name": "Waypoint Crops Peanut",
+  "Commands": [
+    "/waypoint addati turnip ~0 ~0 ~0 false #C19A6B Peanut"
+  ],
+  "KeyCombination": {
+    "KeyCode": 73,
+    "SecondKeyCode": 71,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

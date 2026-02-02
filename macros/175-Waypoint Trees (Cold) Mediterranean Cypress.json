@@ -1,0 +1,16 @@
+{
+  "Index": 175,
+  "Code": "Mediterranean Cypress",
+  "Name": "Waypoint Trees (Cold) Mediterranean Cypress",
+  "Commands": [
+    "/waypoint addati tree2 ~0 ~0 ~0 false #4A6741 Mediterranean Cypress"
+  ],
+  "KeyCombination": {
+    "KeyCode": 74,
+    "SecondKeyCode": 75,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

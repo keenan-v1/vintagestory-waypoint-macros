@@ -8,7 +8,22 @@ This tool creates macro files that let you quickly place waypoints in-game using
 
 It also generates a visual reference image showing all keybindings.
 
-## Installation
+## Quick Start (Pre-generated Macros)
+
+If you just want the macros without installing anything:
+
+1. Download the `.json` files from the [`macros/`](macros/) directory
+2. Copy them to your Vintage Story macros folder:
+   - **Windows:** `%appdata%\VintagestoryData\Macros\`
+   - **Linux:** `~/.config/VintagestoryData/Macros/`
+   - **macOS:** `~/Library/Application Support/VintagestoryData/Macros/`
+3. Restart Vintage Story
+
+See [`macros/macro-reference.png`](macros/macro-reference.png) for a visual guide to all keybindings.
+
+## Installation (Optional)
+
+Only needed if you want to customize waypoints or regenerate macros:
 
 ```bash
 git clone https://github.com/keenan-v1/vintagestory-waypoint-macros.git
@@ -62,13 +77,10 @@ generate_macros(WAYPOINTS, output_dir)
 generate_reference_image(WAYPOINTS, output_dir / "reference.png")
 ```
 
-## Installing Macros in Vintage Story
+## Generating Custom Macros
 
 1. Run `vs-waypoint-macros -o <output_directory>`
-2. Copy the generated `.json` files to your Vintage Story macros folder:
-   - **Windows:** `%appdata%\VintagestoryData\Macros\`
-   - **Linux:** `~/.config/VintagestoryData/Macros/`
-   - **macOS:** `~/Library/Application Support/VintagestoryData/Macros/`
+2. Copy the generated `.json` files to your Vintage Story macros folder (see paths in Quick Start above)
 3. Restart Vintage Story
 
 ## Categories

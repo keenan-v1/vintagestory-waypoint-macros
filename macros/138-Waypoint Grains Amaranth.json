@@ -1,0 +1,16 @@
+{
+  "Index": 138,
+  "Code": "Amaranth",
+  "Name": "Waypoint Grains Amaranth",
+  "Commands": [
+    "/waypoint addati grain ~0 ~0 ~0 false #9B2335 Amaranth"
+  ],
+  "KeyCombination": {
+    "KeyCode": 73,
+    "SecondKeyCode": 70,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

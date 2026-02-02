@@ -1,0 +1,16 @@
+{
+  "Index": 141,
+  "Code": "Carrot",
+  "Name": "Waypoint Crops Carrot",
+  "Commands": [
+    "/waypoint addati turnip ~0 ~0 ~0 false #ED9121 Carrot"
+  ],
+  "KeyCombination": {
+    "KeyCode": 68,
+    "SecondKeyCode": 71,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

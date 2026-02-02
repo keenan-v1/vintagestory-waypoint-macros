@@ -1,0 +1,16 @@
+{
+  "Index": 102,
+  "Code": "Outpost",
+  "Name": "Waypoint POI Outpost",
+  "Commands": [
+    "/waypoint addati gear ~0 ~0 ~0 false #FFA500 Outpost"
+  ],
+  "KeyCombination": {
+    "KeyCode": 69,
+    "SecondKeyCode": 67,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

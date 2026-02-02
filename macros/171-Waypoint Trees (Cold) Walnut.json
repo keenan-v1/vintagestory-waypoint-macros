@@ -1,0 +1,16 @@
+{
+  "Index": 171,
+  "Code": "Walnut",
+  "Name": "Waypoint Trees (Cold) Walnut",
+  "Commands": [
+    "/waypoint addati tree2 ~0 ~0 ~0 false #5C4033 Walnut"
+  ],
+  "KeyCombination": {
+    "KeyCode": 70,
+    "SecondKeyCode": 75,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

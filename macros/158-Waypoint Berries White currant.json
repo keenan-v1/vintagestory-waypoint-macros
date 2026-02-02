@@ -1,0 +1,16 @@
+{
+  "Index": 158,
+  "Code": "White currant",
+  "Name": "Waypoint Berries White currant",
+  "Commands": [
+    "/waypoint addati berries ~0 ~0 ~0 false #F5F5DC White currant"
+  ],
+  "KeyCombination": {
+    "KeyCode": 72,
+    "SecondKeyCode": 73,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

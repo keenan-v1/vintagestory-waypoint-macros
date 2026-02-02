@@ -1,0 +1,16 @@
+{
+  "Index": 155,
+  "Code": "Cranberry",
+  "Name": "Waypoint Berries Cranberry",
+  "Commands": [
+    "/waypoint addati berries ~0 ~0 ~0 false #9F000F Cranberry"
+  ],
+  "KeyCombination": {
+    "KeyCode": 69,
+    "SecondKeyCode": 73,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

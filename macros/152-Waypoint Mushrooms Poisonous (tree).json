@@ -1,0 +1,16 @@
+{
+  "Index": 152,
+  "Code": "Poisonous (tree)",
+  "Name": "Waypoint Mushrooms Poisonous (tree)",
+  "Commands": [
+    "/waypoint addati mushroom ~0 ~0 ~0 false #B22222 Poisonous (tree)"
+  ],
+  "KeyCombination": {
+    "KeyCode": 71,
+    "SecondKeyCode": 72,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

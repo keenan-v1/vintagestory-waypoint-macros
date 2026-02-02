@@ -1,0 +1,16 @@
+{
+  "Index": 127,
+  "Code": "Lapis lazuli",
+  "Name": "Waypoint Minerals Lapis lazuli",
+  "Commands": [
+    "/waypoint addati rocks ~0 ~0 ~0 false #26619C Lapis lazuli"
+  ],
+  "KeyCombination": {
+    "KeyCode": 76,
+    "SecondKeyCode": 69,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

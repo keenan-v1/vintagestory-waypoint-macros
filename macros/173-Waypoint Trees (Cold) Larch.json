@@ -1,0 +1,16 @@
+{
+  "Index": 173,
+  "Code": "Larch",
+  "Name": "Waypoint Trees (Cold) Larch",
+  "Commands": [
+    "/waypoint addati tree2 ~0 ~0 ~0 false #4A5D23 Larch"
+  ],
+  "KeyCombination": {
+    "KeyCode": 72,
+    "SecondKeyCode": 75,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

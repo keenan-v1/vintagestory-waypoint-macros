@@ -1,0 +1,16 @@
+{
+  "Index": 135,
+  "Code": "Rice",
+  "Name": "Waypoint Grains Rice",
+  "Commands": [
+    "/waypoint addati grain ~0 ~0 ~0 false #FFFEF0 Rice"
+  ],
+  "KeyCombination": {
+    "KeyCode": 70,
+    "SecondKeyCode": 70,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

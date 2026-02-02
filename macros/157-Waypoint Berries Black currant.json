@@ -1,0 +1,16 @@
+{
+  "Index": 157,
+  "Code": "Black currant",
+  "Name": "Waypoint Berries Black currant",
+  "Commands": [
+    "/waypoint addati berries ~0 ~0 ~0 false #2E1A47 Black currant"
+  ],
+  "KeyCombination": {
+    "KeyCode": 71,
+    "SecondKeyCode": 73,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

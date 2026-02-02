@@ -1,0 +1,16 @@
+{
+  "Index": 137,
+  "Code": "Sunflower",
+  "Name": "Waypoint Grains Sunflower",
+  "Commands": [
+    "/waypoint addati grain ~0 ~0 ~0 false #FFD700 Sunflower"
+  ],
+  "KeyCombination": {
+    "KeyCode": 72,
+    "SecondKeyCode": 70,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

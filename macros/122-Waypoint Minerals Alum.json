@@ -1,0 +1,16 @@
+{
+  "Index": 122,
+  "Code": "Alum",
+  "Name": "Waypoint Minerals Alum",
+  "Commands": [
+    "/waypoint addati rocks ~0 ~0 ~0 false #F5F5F5 Alum"
+  ],
+  "KeyCombination": {
+    "KeyCode": 71,
+    "SecondKeyCode": 69,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

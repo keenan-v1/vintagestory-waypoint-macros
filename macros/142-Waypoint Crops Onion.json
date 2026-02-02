@@ -1,0 +1,16 @@
+{
+  "Index": 142,
+  "Code": "Onion",
+  "Name": "Waypoint Crops Onion",
+  "Commands": [
+    "/waypoint addati turnip ~0 ~0 ~0 false #C9A86C Onion"
+  ],
+  "KeyCombination": {
+    "KeyCode": 69,
+    "SecondKeyCode": 71,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

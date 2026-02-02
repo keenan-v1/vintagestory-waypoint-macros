@@ -1,0 +1,16 @@
+{
+  "Index": 164,
+  "Code": "Green Bamboo",
+  "Name": "Waypoint Trees (Warm) Green Bamboo",
+  "Commands": [
+    "/waypoint addati tree ~0 ~0 ~0 false #4F7942 Green Bamboo"
+  ],
+  "KeyCombination": {
+    "KeyCode": 72,
+    "SecondKeyCode": 74,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

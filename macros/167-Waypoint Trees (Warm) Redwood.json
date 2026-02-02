@@ -1,0 +1,16 @@
+{
+  "Index": 167,
+  "Code": "Redwood",
+  "Name": "Waypoint Trees (Warm) Redwood",
+  "Commands": [
+    "/waypoint addati tree ~0 ~0 ~0 false #A45A52 Redwood"
+  ],
+  "KeyCombination": {
+    "KeyCode": 75,
+    "SecondKeyCode": 74,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

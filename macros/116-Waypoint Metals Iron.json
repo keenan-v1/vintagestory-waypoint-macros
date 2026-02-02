@@ -1,0 +1,16 @@
+{
+  "Index": 116,
+  "Code": "Iron",
+  "Name": "Waypoint Metals Iron",
+  "Commands": [
+    "/waypoint addati pick ~0 ~0 ~0 false #434343 Iron"
+  ],
+  "KeyCombination": {
+    "KeyCode": 75,
+    "SecondKeyCode": 68,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

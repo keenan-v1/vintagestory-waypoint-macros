@@ -1,0 +1,16 @@
+{
+  "Index": 101,
+  "Code": "Home",
+  "Name": "Waypoint POI Home",
+  "Commands": [
+    "/waypoint addati home ~0 ~0 ~0 false #4169E1 Home"
+  ],
+  "KeyCombination": {
+    "KeyCode": 68,
+    "SecondKeyCode": 67,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

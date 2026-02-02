@@ -1,0 +1,16 @@
+{
+  "Index": 114,
+  "Code": "Zinc",
+  "Name": "Waypoint Metals Zinc",
+  "Commands": [
+    "/waypoint addati pick ~0 ~0 ~0 false #BAC4CB Zinc"
+  ],
+  "KeyCombination": {
+    "KeyCode": 73,
+    "SecondKeyCode": 68,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Index": 132,
+  "Code": "Grain",
+  "Name": "Waypoint Grains Grain",
+  "Commands": [
+    "/waypoint addati grain ~0 ~0 ~0 false #DAA520 Grain"
+  ],
+  "KeyCombination": {
+    "KeyCode": 67,
+    "SecondKeyCode": 70,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

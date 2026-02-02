@@ -1,0 +1,16 @@
+{
+  "Index": 159,
+  "Code": "Tree (Warm)",
+  "Name": "Waypoint Trees (Warm) Tree (Warm)",
+  "Commands": [
+    "/waypoint addati tree ~0 ~0 ~0 false #228B22 Tree (Warm)"
+  ],
+  "KeyCombination": {
+    "KeyCode": 67,
+    "SecondKeyCode": 74,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

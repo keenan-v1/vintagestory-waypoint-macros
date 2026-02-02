@@ -101,10 +101,7 @@ dmypy.json
 # Ruff
 .ruff_cache/
 
-# Generated output files (macros and reference image)
-*.json
-!pyproject.toml
-macro-reference.png
+# Generated output files are tracked in macros/ directory
 
 # OS files
 .DS_Store

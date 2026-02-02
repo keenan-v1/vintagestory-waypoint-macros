@@ -1,0 +1,16 @@
+{
+  "Index": 118,
+  "Code": "Mineral",
+  "Name": "Waypoint Minerals Mineral",
+  "Commands": [
+    "/waypoint addati rocks ~0 ~0 ~0 false #4A6670 Mineral"
+  ],
+  "KeyCombination": {
+    "KeyCode": 67,
+    "SecondKeyCode": 69,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

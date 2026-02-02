@@ -1,0 +1,16 @@
+{
+  "Index": 117,
+  "Code": "Meteoric Iron",
+  "Name": "Waypoint Metals Meteoric Iron",
+  "Commands": [
+    "/waypoint addati pick ~0 ~0 ~0 false #5C4033 Meteoric Iron"
+  ],
+  "KeyCombination": {
+    "KeyCode": 76,
+    "SecondKeyCode": 68,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

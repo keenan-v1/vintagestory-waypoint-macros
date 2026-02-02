@@ -1,0 +1,16 @@
+{
+  "Index": 113,
+  "Code": "Silver",
+  "Name": "Waypoint Metals Silver",
+  "Commands": [
+    "/waypoint addati pick ~0 ~0 ~0 false #C0C0C0 Silver"
+  ],
+  "KeyCombination": {
+    "KeyCode": 72,
+    "SecondKeyCode": 68,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

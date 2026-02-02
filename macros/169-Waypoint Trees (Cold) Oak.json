@@ -1,0 +1,16 @@
+{
+  "Index": 169,
+  "Code": "Oak",
+  "Name": "Waypoint Trees (Cold) Oak",
+  "Commands": [
+    "/waypoint addati tree2 ~0 ~0 ~0 false #806517 Oak"
+  ],
+  "KeyCombination": {
+    "KeyCode": 68,
+    "SecondKeyCode": 75,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

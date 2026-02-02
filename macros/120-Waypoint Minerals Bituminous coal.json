@@ -1,0 +1,16 @@
+{
+  "Index": 120,
+  "Code": "Bituminous coal",
+  "Name": "Waypoint Minerals Bituminous coal",
+  "Commands": [
+    "/waypoint addati rocks ~0 ~0 ~0 false #2C2C2C Bituminous coal"
+  ],
+  "KeyCombination": {
+    "KeyCode": 69,
+    "SecondKeyCode": 69,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

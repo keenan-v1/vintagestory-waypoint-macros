@@ -1,0 +1,16 @@
+{
+  "Index": 179,
+  "Code": "Red Clay",
+  "Name": "Waypoint Resources Red Clay",
+  "Commands": [
+    "/waypoint addati rocks ~0 ~0 ~0 false #C04000 Red Clay"
+  ],
+  "KeyCombination": {
+    "KeyCode": 69,
+    "SecondKeyCode": 76,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Index": 133,
+  "Code": "Flax",
+  "Name": "Waypoint Grains Flax",
+  "Commands": [
+    "/waypoint addati grain ~0 ~0 ~0 false #6495ED Flax"
+  ],
+  "KeyCombination": {
+    "KeyCode": 68,
+    "SecondKeyCode": 70,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

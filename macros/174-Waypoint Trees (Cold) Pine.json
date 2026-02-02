@@ -1,0 +1,16 @@
+{
+  "Index": 174,
+  "Code": "Pine",
+  "Name": "Waypoint Trees (Cold) Pine",
+  "Commands": [
+    "/waypoint addati tree2 ~0 ~0 ~0 false #01796F Pine"
+  ],
+  "KeyCombination": {
+    "KeyCode": 73,
+    "SecondKeyCode": 75,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

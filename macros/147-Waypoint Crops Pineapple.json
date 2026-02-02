@@ -1,0 +1,16 @@
+{
+  "Index": 147,
+  "Code": "Pineapple",
+  "Name": "Waypoint Crops Pineapple",
+  "Commands": [
+    "/waypoint addati turnip ~0 ~0 ~0 false #FFE135 Pineapple"
+  ],
+  "KeyCombination": {
+    "KeyCode": 74,
+    "SecondKeyCode": 71,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

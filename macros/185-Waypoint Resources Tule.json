@@ -1,0 +1,16 @@
+{
+  "Index": 185,
+  "Code": "Tule",
+  "Name": "Waypoint Resources Tule",
+  "Commands": [
+    "/waypoint addati grain ~0 ~0 ~0 false #808000 Tule"
+  ],
+  "KeyCombination": {
+    "KeyCode": 75,
+    "SecondKeyCode": 76,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

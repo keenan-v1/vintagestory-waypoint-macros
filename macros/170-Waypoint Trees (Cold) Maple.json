@@ -1,0 +1,16 @@
+{
+  "Index": 170,
+  "Code": "Maple",
+  "Name": "Waypoint Trees (Cold) Maple",
+  "Commands": [
+    "/waypoint addati tree2 ~0 ~0 ~0 false #C04000 Maple"
+  ],
+  "KeyCombination": {
+    "KeyCode": 69,
+    "SecondKeyCode": 75,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

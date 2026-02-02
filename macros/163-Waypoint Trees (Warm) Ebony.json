@@ -1,0 +1,16 @@
+{
+  "Index": 163,
+  "Code": "Ebony",
+  "Name": "Waypoint Trees (Warm) Ebony",
+  "Commands": [
+    "/waypoint addati tree ~0 ~0 ~0 false #3D3635 Ebony"
+  ],
+  "KeyCombination": {
+    "KeyCode": 71,
+    "SecondKeyCode": 74,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Index": 129,
+  "Code": "Lignite",
+  "Name": "Waypoint Minerals Lignite",
+  "Commands": [
+    "/waypoint addati rocks ~0 ~0 ~0 false #5C4033 Lignite"
+  ],
+  "KeyCombination": {
+    "KeyCode": 78,
+    "SecondKeyCode": 69,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

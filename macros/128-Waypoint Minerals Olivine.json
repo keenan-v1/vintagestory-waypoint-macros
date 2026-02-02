@@ -1,0 +1,16 @@
+{
+  "Index": 128,
+  "Code": "Olivine",
+  "Name": "Waypoint Minerals Olivine",
+  "Commands": [
+    "/waypoint addati rocks ~0 ~0 ~0 false #9AB973 Olivine"
+  ],
+  "KeyCombination": {
+    "KeyCode": 77,
+    "SecondKeyCode": 69,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Index": 153,
+  "Code": "Berry",
+  "Name": "Waypoint Berries Berry",
+  "Commands": [
+    "/waypoint addati berries ~0 ~0 ~0 false #DC143C Berry"
+  ],
+  "KeyCombination": {
+    "KeyCode": 67,
+    "SecondKeyCode": 73,
+    "Ctrl": false,
+    "Alt": false,
+    "Shift": false,
+    "OnKeyUp": false
+  }
+}
