@@ -39,9 +39,9 @@ dev = [
 vs-waypoint-macros = "vs_waypoint_macros.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/keenan/vintagestory-waypoint-macros"
-Repository = "https://github.com/keenan/vintagestory-waypoint-macros"
-Issues = "https://github.com/keenan/vintagestory-waypoint-macros/issues"
+Homepage = "https://github.com/keenan-v1/vintagestory-waypoint-macros"
+Repository = "https://github.com/keenan-v1/vintagestory-waypoint-macros"
+Issues = "https://github.com/keenan-v1/vintagestory-waypoint-macros/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/vs_waypoint_macros"]
