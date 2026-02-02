@@ -11,12 +11,6 @@ It also generates a visual reference image showing all keybindings.
 ## Installation
 
 ```bash
-pip install vs-waypoint-macros
-```
-
-Or install from source:
-
-```bash
 git clone https://github.com/keenan-v1/vintagestory-waypoint-macros.git
 cd vintagestory-waypoint-macros
 pip install .
@@ -75,7 +69,7 @@ generate_reference_image(WAYPOINTS, output_dir / "reference.png")
    - **Windows:** `%appdata%\VintagestoryData\Macros\`
    - **Linux:** `~/.config/VintagestoryData/Macros/`
    - **macOS:** `~/Library/Application Support/VintagestoryData/Macros/`
-3. Restart Vintage Story or reload macros in-game
+3. Restart Vintage Story
 
 ## Categories
 
