@@ -12,14 +12,14 @@ It also generates a visual reference image showing all keybindings.
 
 If you just want the macros without installing anything:
 
-1. Download the `.json` files from the [`macros/`](macros/) directory
-2. Copy them to your Vintage Story macros folder:
+1. Download `vintagestory-waypoint-macros.zip` from the [Releases](https://github.com/keenan-v1/vintagestory-waypoint-macros/releases/latest) page
+2. Extract the `.json` files to your Vintage Story macros folder:
    - **Windows:** `%appdata%\VintagestoryData\Macros\`
    - **Linux:** `~/.config/VintagestoryData/Macros/`
    - **macOS:** `~/Library/Application Support/VintagestoryData/Macros/`
 3. Restart Vintage Story
 
-See [`macros/macro-reference.png`](macros/macro-reference.png) for a visual guide to all keybindings.
+The release also includes `macro-reference.png` - a visual guide to all keybindings.
 
 ## Installation (Optional)
 
